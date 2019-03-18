@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>json</string>
+		<string>har</string>
 		<string>sublime-settings</string>
 		<string>sublime-menu</string>
 		<string>sublime-keymap</string>
